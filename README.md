@@ -1,16 +1,43 @@
-## Hi there 👋
+````markdown name=README.md
+# Hi there, I'm Alin-Alexy 👋
 
-<!--
-**Alin-Alexy/Alin-Alexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and always keen to learn new technologies. Here you'll find a collection of my projects, contributions, and some of the things I'm currently working on.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, Python, Java, C#, TypeScript
+- **Frameworks**: React, Angular, Node.js, Django, Spring Boot
+- **Tools**: Git, VSCode
+- **Cloud**: Google Cloud
+
+## 🚀 Projects
+
+/*### [Project Name](https://github.com/Alin-Alexy/project-name)
+A brief description of the project.
+
+### [Another Project](https://github.com/Alin-Alexy/another-project)
+A brief description of another project.*/
+
+## 🌱 Currently Learning
+
+- AI prompt engineering with AI
+- (CLD) LabVIEW Software development 
+- MCU Assembly and Reverse Engineering With Ghidra
+- DevOps practices and CI/CD pipelines
+- Beginner TypeScript
+
+## 📫 How to reach me
+
+
+
+## 📈 GitHub Stats
+
+![Alin-Alexy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alin-Alexy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alin-Alexy&layout=compact&theme=radical)
+
+## 🤝 Contributions
+
+Feel free to check out my repositories and contribute to any projects you find interesting. I'm always open to collaboration and happy to help out fellow developers.
+
+Thanks for visiting my profile! Have a great day! 😊
+````
