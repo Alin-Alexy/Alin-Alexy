@@ -1,11 +1,11 @@
-````markdown name=README.md
+
 # Hi there, I'm Alin-Alexy 👋
 
 Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and always keen to learn new technologies. Here you'll find a collection of my projects, contributions, and some of the things I'm currently working on.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript, Python, Java, C#, TypeScript
+-**Languages**: JavaScript, Python, Java, TypeScript
 - **Frameworks**: React, Angular, Node.js, Django, Spring Boot
 - **Tools**: Git, VSCode
 - **Cloud**: Google Cloud
@@ -40,4 +40,3 @@ A brief description of another project.
 Feel free to check out my repositories and contribute to any projects you find interesting. I'm always open to collaboration and happy to help out fellow developers.
 
 Thanks for visiting my profile! Have a great day! 😊
-````
