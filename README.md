@@ -12,11 +12,11 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 🚀 Projects
 
-/*### [Project Name](https://github.com/Alin-Alexy/project-name)
+### [Project Name](https://github.com/Alin-Alexy/project-name)
 A brief description of the project.
 
 ### [Another Project](https://github.com/Alin-Alexy/another-project)
-A brief description of another project.*/
+A brief description of another project.
 
 ## 🌱 Currently Learning
 
