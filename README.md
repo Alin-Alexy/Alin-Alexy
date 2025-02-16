@@ -24,10 +24,7 @@ A brief description of another project.
 - (CLD) LabVIEW Software development 
 - MCU Assembly and Reverse Engineering With Ghidra
 - DevOps practices and CI/CD pipelines
-- Beginner TypeScript
-
-## 📫 How to reach me
-
+- Beginner JavaScript, TypeScript, Python
 
 
 ## 📈 GitHub Stats
