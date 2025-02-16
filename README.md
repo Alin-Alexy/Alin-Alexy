@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 ## 🛠️ Technologies & Tools
 
--**Languages**: JavaScript, Python, Java, TypeScript
-- **Frameworks**: React, Angular, Node.js, Django, Spring Boot
+- **Languages**: JavaScript, Python, TypeScript
+- **Frameworks**: React, Node.js
 - **Tools**: Git, VSCode
 - **Cloud**: Google Cloud
 
